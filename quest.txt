@@ -1,0 +1,39 @@
+10
+Welcome to Greed Island #1
+Get 3 log from a tree
+10exp 10or
+
+10
+Welcome to Greed Island #2
+Get 3 stone from a rock
+10exp 10or
+
+10
+Welcome to Greed Island #3
+Kill the monster
+10exp 10or
+
+9
+Welcome to YorkShine
+Go to the north and kill 5 monster in the plain
+50exp 15or
+
+9
+Go help Lewis
+Find Lewis in the village and help him
+10exp 10or
+
+9
+Go help Clint
+Find Clint in the village and help him
+10exp 10or
+
+11
+The special tree
+Find the special tree on the plain and chop 15 wood
+50exp 50or Or axe
+
+16
+The special rock from the ancient book
+Find a purple rock on the stone-pit on the really north of the village
+50exp 50or amethyst pickaxe

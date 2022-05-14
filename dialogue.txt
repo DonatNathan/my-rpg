@@ -1,0 +1,68 @@
+#first_dialogue
+...
+Uh ? Where am I ?
+Am I dead ?
+...
+I do not remember many things, i saw that big wave comming on our boat
+...
+Everthing went so fast
+I should start exploring this island
+Oh there is someone right there
+#afk
+A group of pirates stole your equipment while your back was turned.
+Sorry...
+#not_now
+I don't want to speak with you.
+#tuto_wood
+Welcome to the Greed Island
+I'm Abigail, and I'm charged to give you some tips for your exploration
+First we'll see how to get some wood from tree. Take this axe and chop down this tree
+#tuto_ore
+Perfect ! You know now how to get wood from tree
+Now take this pickaxe and get some stone from this rock
+#tuto_monster
+Wonderfull ! You are now able to get stone
+Oh no ! A monster appear, take this sword and kill him before he attack us
+#tuto_end
+Jusus, you saved me ! Thanks a lot god bless you
+You know now the basics of our island and you can now explore it
+Go in the north you will find out village called YorkShine
+#intro
+Hi, welcome to YorkShine. I am Alex, I am in charged to guid you into this village.
+Oh ! I see thieves robbed you on the road... At least they let you have your gondolin...
+We are actually in the tawn hall place, right behind you can see the Stardrop Saloon belonging to Gus
+He will be very happy if you ask for a drink
+In the other side we have the bath, a place where we relax and talk about life
+A bit eccentric, we have the house of George and Evelyn. It's an old lovers couple
+Evelyn is really sweet but George have some trouble with new people
+Lewis and Clint are respectively our lumberjack and our miner
+You can find them at the extrem right of our village
+In the top of our village there is a dangerous plain where some monster lived
+Your goal, if you accept it, is to kill 5 of the monster you will find down there
+Comeback when you have made it
+#go_wood
+Congratz ! Our village is more prosperous now
+Go talk to Lewis, I heard he needs some help to manage his wood
+#go_ore
+Thanks alot for all our help. Clint needs also help with his ore, go meet him
+#alex_end
+Thank you again for your work, you acquired the respect of other villager
+#lewis_help
+Hello newbie, I am Lewis, i saw that Alex redirected you to me. I need you to find some special wood
+It is a really special type of wood, you will find it at the east of the plain
+You can't miss the tree you are looking for, it is the only blue one around green
+Be careful there is many monster this is why I can't go there alone
+#lewis_end
+Thank you very much for your help, I couldn't achieved it alone
+I will now be able to make some furniture
+#clint_help
+Hey bro, I saw that you helped Lewis so I ask Alex to tells you about me
+I also need help for some rares ressources, this pest animals are really invasive
+On the really north of our village there is a sort of stone-pit
+Apparently there is some ancient special ore
+Some of the rock must have to looks contrast from the other one, a sort of purple, it's what I read on old texts
+#clint_end
+Wow it really exist, let me see if I can make something with those ores
+...
+Yes, it is a very pure material, i manage to make some tools, thank a lot
+I give you this pickaxe in reward
