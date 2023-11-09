@@ -27,8 +27,24 @@ Linux :
 ./my_rpg -p <username>
 ```
 
-### Arguments : 
+### Arguments
 Arg | Description
 --- | -----------
 -h | Display help of the project
 -p <username> | Launch the game with your username
+
+## Ingame inputs
+
+Input | Action
+----- | ------
+Z | Go forward
+Q | Go left
+S | Go backward
+D | Go right
+Escape | Open/Close pause menu
+E | Interact with pnj
+M | Open/Close map
+I | Open/Close inventory
+C | Open/Close quests book
+B | Open/Close book
+P | Display/Hide hitbox
