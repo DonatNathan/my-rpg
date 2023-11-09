@@ -6,26 +6,26 @@ It's a that of type "RPG" who was created using CSFML librairy with sprites of S
 
 ## Prerequises
 
-Linux : 
-`
+Linux :
+```
 sudo pacman -Sy csfml
-`
+```
 
 ## Compilation
 
-Linux : 
-`
+Linux :
+```
 git clone git@github.com:DonatNathan/my-rpg.git
 cd my-rpg
 make
-`
+```
 
 ## Launch the game
 
-Linux : 
-`
+Linux :
+```
 ./my_rpg -p <username>
-`
+```
 
 ### Arguments : 
 Arg | Description
